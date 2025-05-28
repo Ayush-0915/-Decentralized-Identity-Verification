@@ -102,3 +102,10 @@ This vision aims to revolutionize how we approach digital identity in an increas
 - **Privacy-Preserving Technologies**: Research and implement advanced privacy solutions
 
 This comprehensive roadmap ensures the project evolves with technological advances while maintaining its core principles of decentralization, security, and user empowerment.
+
+
+Adress :
+ deployment: id0x1Bf2D4805cAe7dFf774948F93F4b77F6c4Cdfa7B
+ payment ss :![Screenshot 2025-05-28 161002](https://github.com/user-attachments/assets/d4ccd981-b838-4048-b981-90b917070511)
+
+
